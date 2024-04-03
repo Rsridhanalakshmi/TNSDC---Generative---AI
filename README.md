@@ -27,7 +27,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
 1. Clone the repository:
 
 
-git clone https://github.com/Madhumita1214/TNSDC-Generative-AI
+git clone https://github.com/Rsridhanalakshimi/TNSDC-Generative-AI
 
 
 2. Navigate to the project directory:
