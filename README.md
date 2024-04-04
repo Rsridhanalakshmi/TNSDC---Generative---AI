@@ -42,3 +42,8 @@ cd rainfall-prediction
 
 ## Results
 The project aims to achieve accurate rainfall predictions using machine learning models. The evaluation metrics such as accuracy, precision, recall, and F1-score will be used to assess the performance of the models.
+
+
+demo video link :https://drive.google.com/file/d/1BUH1xFL9sZL39r8BYNjW9o8H8Zmood8o/view?usp=sharing
+
+dataset link:https://figshare.com/articles/dataset/rainfall_csv/12668411
